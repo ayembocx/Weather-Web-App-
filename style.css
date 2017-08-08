@@ -1,0 +1,71 @@
+body{
+  background-color:#979aaa;
+}
+.head{
+  
+}
+.head-text{
+  font-weight:bold;
+  font-family: Courier New, "Copperplate Gothic Light", fantasy, Arial;
+  text-shadow: 1px 2px 3px #77497A;
+  color: #77497A;
+  padding-left:35%;
+}
+.logo{
+  width:100px;
+  margin-left:1%;
+  margin-top:1.8%;
+}
+h1{
+  font-size:8rem;
+  color:#441087;
+}
+.main{
+  background-color:#979aaa;
+}
+h2{
+  font-size:1.15em;
+  font-family: Century Gothic, Trebuchet MS, Arial;
+  color:#4B334D;
+  text-align:center;
+}
+.weather-text-location{
+  color:black;
+  text-align:center;
+  font-size:4rem;
+}
+.weather-text-temperature{
+  color:#0000EE;
+  font-weight:bold;
+  margin-top:1%;
+  margin-left:43%;
+  font-size:3.5rem;
+  background: Transparent;
+  border:none;
+  outline:none;
+}
+.weather-text-temperature:hover{
+  color:#42f4d4;
+  font-weight:bold;
+}
+.weather-text-weather{
+  color:black;
+  margin-top:2%;
+  text-align:center;
+  font-size:2.5rem;
+}
+.weather-container{
+  width:650px;
+  height:auto;
+  margin:2% auto auto auto;
+  background-color:#979aaa;
+  border-radius: 20px;
+  margin-bottom:5%;
+}
+.icon{
+  margin-left:38%;
+  margin-top:3%;
+  display:none;
+  height:150px;
+  width:150px;
+}
